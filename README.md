@@ -1,2 +1,2 @@
-iOS Swift App - Guilherme Silveira
-guilherme.silveira@alura.com.br
+iOS Swift App based in book "Swift: Programe para iPhone e iPad"
+
